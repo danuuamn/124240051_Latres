@@ -1,3 +1,5 @@
-# latres
+Latihan Responsi Praktikumm Pemrograman Aplikasi Mobile
 
-A new Flutter project.
+Nama  : Septo Danu Ayman
+NIM   : 124240051
+Plug  : SI-C
